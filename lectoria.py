@@ -9,7 +9,7 @@ import awesome_streamlit as ast
 # For every page in the app use the format:
 # import src.pages.PAGE
 
-import src.pages.home2
+import src.pages.home
 import src.pages.dashboard
 
 
