@@ -7,7 +7,7 @@ la extración y el análisis de documentos escaneados de manera automática._
 
 ¿Cómo funciona?
 
-Lectoría le permite al usuario ingresar imágenes dentro de la aplicación, dentro de ésta se procesan y se extrae la información requerida por el usuario. 
+Lectoría le permite al usuario ingresar imágenes dentro de la aplicación, dentro de ésta el lector de imágenes la procesa y extrae la información requerida por el usuario. 
 
 En este proyecto estamos extrayendo 12 cuentas de los Estados Financieros
 
@@ -50,10 +50,34 @@ _Las herramientas utilizadas son las siguientes_
 
 ### Pre-requisitos 📋
 
-_Para  _
+
+_Herramientas requeridas para la aplicación  _
+
+*Python 3.7 https://www.python.org/downloads/
+*Usuario de Amazon web services https://aws.amazon.com/es/
+    -S3 AWS https://aws.amazon.com/es/s3/
+    -S2 AWS https://aws.amazon.com/es/ec2/
+
+
+### Instalación 🔧
+
+_Instalaciones requeridas para la aplicación_
 
 ```
-Da un ejemplo
+pip install streamlit
+```
+```
+pip install awesome-streamlit
+```
+```
+pip install altair
+```
+```
+pip install plotly
+```
+```
+pip install boto3
+```
 
 
 
@@ -68,6 +92,9 @@ https://openinnovation.bbva.com/es/retos-2020
 
 
 
+
+
+
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
@@ -75,6 +102,9 @@ https://openinnovation.bbva.com/es/retos-2020
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── processed      <- The final, canonical data sets for modeling.
+    ```
+Da un ejemplo
+```
     │   └── raw            <- The original, immutable data dump.
     │
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
