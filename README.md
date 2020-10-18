@@ -53,12 +53,11 @@ _Las herramientas utilizadas son las siguientes_
 ### Pre-requisitos 📋
 
 
-_Herramientas requeridas para la aplicación  _
+Herramientas requeridas para la aplicación
 
 *Python 3.7 https://www.python.org/downloads/
 *Usuario de Amazon web services https://aws.amazon.com/es/
-    -S3 AWS https://aws.amazon.com/es/s3/
-    -S2 AWS https://aws.amazon.com/es/ec2/
+
 
 
 ### Instalación 🔧
