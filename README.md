@@ -15,6 +15,22 @@ Project Organization
 
 ------------
 
+
+
+
+
+## Construido con 🛠️
+
+_Las herramientas utilizadas son las siguientes_
+
+* [Amazon Textract](https://aws.amazon.com/es/textract/) 
+* [AWS S3](https://aws.amazon.com/es/s3/) 
+* [Streamlit](https://www.streamlit.io/) 
+
+## Contribuyendo 🖇️
+
+
+
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
