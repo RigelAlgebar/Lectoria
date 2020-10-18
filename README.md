@@ -62,23 +62,16 @@ Herramientas requeridas para la aplicación
 
 ### Instalación 🔧
 
-_Instalaciones requeridas para la aplicación_
+Las Instalaciones requeridas para la aplicación se encuentran en el archivo de requirements.txt
 
 ```
-pip install streamlit
+streamlit
+awesome-streamlit
+altair
+plotly
+boto3
 ```
-```
-pip install awesome-streamlit
-```
-```
-pip install altair
-```
-```
-pip install plotly
-```
-```
-pip install boto3
-```
+
 
 
 
@@ -103,9 +96,8 @@ https://openinnovation.bbva.com/es/retos-2020
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── processed      <- The final, canonical data sets for modeling.
-    ```
-Da un ejemplo
-```
+
+
     │   └── raw            <- The original, immutable data dump.
     │
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
