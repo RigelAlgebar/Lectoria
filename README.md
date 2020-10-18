@@ -14,16 +14,21 @@ En este proyecto estamos extrayendo 12 cuentas de los Estados Financieros
 
 | Balance General   | Estado de pérdidas y ganancias | General            |  
 |-------------------|--------------------------------|--------------------|
-| *Caja y efectivo  | *Ventas                        | Fecha              |   
-| *Total Pasivo     | *Costo de Ventas               | Unidades de medida |   
+| *Caja y efectivo  | *Ventas                        | *Fecha              |   
+| *Total Pasivo     | *Costo de Ventas               | *Unidades de medida |   
 | *Total Patrimonio | *Utilidad Bruta                |                    |   
 |                   | *Utilidad operacional          |                    |   
 |                   | *Utilidad antes de impuestos   |                    |   
 |                   | *Utilidad neta                 |                    |  
 
 
+
+
+
 Después de extraer la información, se genera un archivo .csv y adicional dentro de la misma aplicación puedes acceder a un dashboard dinámico que contiene analíticos generados
 con la información de los archivos ingresados por el usuario
+
+
 
 ![title](src/static/images/diagrama.png)
 
@@ -43,6 +48,9 @@ _Las herramientas utilizadas son las siguientes_
 * [Streamlit](https://www.streamlit.io/) 
 
 ## Contribuyendo 🖇️
+
+Este proyecto es parte de la competencia de programación global creada por BBVA 
+
 
 
 [![IMAGE ALT TEXT](src/static/images/hackaton.JPG)](https://www.youtube.com/watch?v=G7ykOxP2Glg&feature=emb_title "Hackaton BBVA")
