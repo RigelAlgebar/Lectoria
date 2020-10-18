@@ -25,7 +25,7 @@ En este proyecto estamos extrayendo 12 cuentas de los Estados Financieros
 
 
 
-Después de extraer la información, se genera un archivo .csv y adicional dentro de la misma aplicación puedes acceder a un dashboard dinámico que contiene analíticos generados
+Después de extraer la información se genera un archivo .csv y adicional dentro de la misma aplicación puedes acceder a un dashboard dinámico que contiene analíticos generados
 con la información de los archivos ingresados por el usuario
 
 
