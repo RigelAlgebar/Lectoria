@@ -43,9 +43,9 @@ con la información de los archivos ingresados por el usuario
 
 _Las herramientas utilizadas son las siguientes_
 
-* [Amazon Textract](https://aws.amazon.com/es/textract/) 
-* [AWS S3](https://aws.amazon.com/es/s3/) 
-* [Streamlit](https://www.streamlit.io/) 
+* [Amazon Textract](https://aws.amazon.com/es/textract/) Lector de imágenes
+* [AWS S3](https://aws.amazon.com/es/s3/) Almacenamiento
+* [Streamlit](https://www.streamlit.io/) app framework
 
 
 ### Pre-requisitos 📋
