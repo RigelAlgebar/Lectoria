@@ -32,7 +32,7 @@ _Las herramientas utilizadas son las siguientes_
 ## Contribuyendo 🖇️
 
 
-[![IMAGE ALT TEXT](src/static/images/hackaton.jpg)](https://www.youtube.com/watch?v=G7ykOxP2Glg&feature=emb_title "Hackaton BBVA")
+[![IMAGE ALT TEXT](src/static/images/hackaton.JPG)](https://www.youtube.com/watch?v=G7ykOxP2Glg&feature=emb_title "Hackaton BBVA")
 
 
 
