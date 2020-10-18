@@ -10,6 +10,8 @@ Project Organization
 
 
 
+
+
 ![title](src/static/images/diagrama.png)
 
 
@@ -28,6 +30,9 @@ _Las herramientas utilizadas son las siguientes_
 * [Streamlit](https://www.streamlit.io/) 
 
 ## Contribuyendo 🖇️
+
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/https://youtu.be/G7ykOxP2Glg/0.jpg)](https://www.youtube.com/embed/G7ykOxP2Glg "Hackaton BBVA")
 
 
 
