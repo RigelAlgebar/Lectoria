@@ -1,7 +1,13 @@
-numpy==1.18.4      
+numpy==1.18.4
 typing==3.7.4
 pandas==0.24.2
-streamlit==0.68.1      
+streamlit==0.68.1
 awesome-streamlit
-boto3==1.13.0      
-botocore==1.16.0      
+boto3==1.13.0
+botocore==1.16.0
+altair==4.1.0
+pandas==0.25.1
+streamlit==0.69.2
+streamlit-vega-lite==0.0.3
+plotly==4.11.0
+chart-studio==1.1.0
