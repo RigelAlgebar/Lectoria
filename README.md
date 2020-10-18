@@ -47,10 +47,21 @@ _Las herramientas utilizadas son las siguientes_
 * [AWS S3](https://aws.amazon.com/es/s3/) 
 * [Streamlit](https://www.streamlit.io/) 
 
+
+### Pre-requisitos 📋
+
+_Para  _
+
+```
+Da un ejemplo
+
+
+
 ## Contribuyendo 🖇️
 
 Este proyecto es parte de la competencia de programación global creada por BBVA 
 
+https://openinnovation.bbva.com/es/retos-2020
 
 
 [![IMAGE ALT TEXT](src/static/images/hackaton.JPG)](https://www.youtube.com/watch?v=G7ykOxP2Glg&feature=emb_title "Hackaton BBVA")
