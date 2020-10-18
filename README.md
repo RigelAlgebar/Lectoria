@@ -6,6 +6,13 @@ la extración y el análisis de documentos escaneados de manera automática._
 ## Comenzando 🚀.
 
 Project Organization
+
+
+
+
+![title](src/static/images/diagrama.png)
+
+
 ------------
 
     ├── LICENSE
