@@ -1,6 +1,6 @@
 import sys
 import os
-from urllib3.parse import urlparse
+from urlparse import urlparse
 import boto3
 import time
 from tdp import DocumentProcessor
