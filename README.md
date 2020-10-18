@@ -1,7 +1,9 @@
-data-science-template
-==============================
+# Lectoria
 
-A short description of the project.
+_Lectoria es una aplicación que le permite a tu empresa superar los procesos manuales ofreciendo
+la extración y el análisis de documentos escaneados de manera automática._
+
+## Comenzando 🚀.
 
 Project Organization
 ------------
