@@ -18,7 +18,7 @@ import src.pages.dashboard
 #ast.core.services.other.set_logging_format()
 
 PAGES = {
-    "Home": src.pages.home2,
+    "Home": src.pages.home,
     "Analytics Dashboard": src.pages.dashboard,
     #"About": src.pages.about,
 }
