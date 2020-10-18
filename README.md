@@ -45,7 +45,9 @@ _Las herramientas utilizadas son las siguientes_
 
 * [Amazon Textract](https://aws.amazon.com/es/textract/) Lector de imágenes
 * [AWS S3](https://aws.amazon.com/es/s3/) Almacenamiento
+* [AWS EC2](https://aws.amazon.com/es/ec2/) Procesamiento
 * [Streamlit](https://www.streamlit.io/) app framework
+
 
 
 ### Pre-requisitos 📋
