@@ -5,12 +5,25 @@ la extración y el análisis de documentos escaneados de manera automática._
 
 ## Comenzando 🚀.
 
-Project Organization
+¿Cómo funciona?
+
+Lectoría le permite al usuario ingresar imágenes dentro de la aplicación, dentro de ésta se procesan y se extrae la información requerida por el usuario. 
+
+En este proyecto estamos extrayendo 12 cuentas de los Estados Financieros
 
 
+| Balance General   | Estado de pérdidas y ganancias | General            |  
+|-------------------|--------------------------------|--------------------|
+| *Caja y efectivo  | *Ventas                        | Fecha              |   
+| *Total Pasivo     | *Costo de Ventas               | Unidades de medida |   
+| *Total Patrimonio | *Utilidad Bruta                |                    |   
+|                   | *Utilidad operacional          |                    |   
+|                   | *Utilidad antes de impuestos   |                    |   
+|                   | *Utilidad neta                 |                    |  
 
 
-
+Después de extraer la información, se genera un archivo .csv y adicional dentro de la misma aplicación puedes acceder a un dashboard dinámico que contiene analíticos generados
+con la información de los archivos ingresados por el usuario
 
 ![title](src/static/images/diagrama.png)
 
