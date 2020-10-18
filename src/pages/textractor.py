@@ -1,6 +1,6 @@
 import sys
 import os
-from urlparse import urlparse
+# from urlparse import urlparse
 import boto3
 import time
 from tdp import DocumentProcessor
@@ -59,9 +59,9 @@ class Textractor:
         awsRegion = 'us-east-1'
 
         if(idl.startswith("s3://")):
-            o = urlparse(inputDocument)
-            bucketName = o.netloc
-            path = o.path[1:]
+            # o = urlparse(inputDocument)
+            bucketName = 'lechatnoir'
+            path = 'carpeta/'
             ar = S3Helper.getS3BucketRegion(bucketName)
             if(ar):
                 awsRegion = ar
